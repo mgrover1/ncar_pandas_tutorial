@@ -1,8 +1,9 @@
-# NCAR `pandas` Tutorial
+NCAR `pandas` Tutorial
+===
 Welcome to the UCAR/NCAR Xdev [**pandas**](https://pandas.pydata.org) tutorial repository. This tutorial is scheduled for **Wednesday, May 21 2021** at **1:00 pm MDT / 1900 UTC** and will be led by **Drew Camron** and **Max Grover**.
 
 ## Prerequisites
-A basic knowledge of Python, NumPy, and Matpolotlib is required. Comfort with Jupyter notebook or Jupyter lab, as well as conda/pip is helpful. Familiarity with tabular data, e.g. `.csv` is important to understanding pandas and its strengths.
+A basic knowledge of Python, NumPy, and Matpolotlib is required. Comfort with Jupyter notebook or Jupyter lab, and conda/pip is helpful. Familiarity with tabular data, e.g. `.csv` files, is important to understanding pandas and its strengths.
 
 ## Setup
 1. Clone or otherwise download this repository using the green `Code` button above
@@ -12,6 +13,7 @@ A basic knowledge of Python, NumPy, and Matpolotlib is required. Comfort with Ju
 1. Launch `jupyter lab` from this prompt
 1. Open `pandas.ipynb`
 
-If you have preferred ways to maintain your own environment or otherwise interact with Python, you'll only need to make sure you have `pandas` and `matplotlib` installed, and download at least `pandas.ipynb` and the `data/` directory.
+If you have preferred ways to maintain your own environment or otherwise interact with Python, you'll only need to make sure you have `pandas` and `matplotlib` installed, and download at least `pandas.ipynb` and the `data/` directory. Creating this environment and launching Jupyter lab can also be done in the [Anaconda Navigator](https://docs.anaconda.com/anaconda/install/) GUI.
 
-## [About Xdev](https://ncar.github.io/xdev/)
+---
+[*About Xdev*](https://ncar.github.io/xdev/)
