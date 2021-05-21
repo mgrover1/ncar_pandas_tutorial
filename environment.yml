@@ -1,7 +1,8 @@
-name: pandas_tutorial
+name: ncar_pandas_tutorial
 channels:
   - conda-forge
 dependencies:
   - jupyterlab>=3
   - pandas
-
+  - matplotlib
+  
