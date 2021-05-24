@@ -1,6 +1,7 @@
 # OS / user
 .DS_Store
 .vscode
+.gitattributes
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
