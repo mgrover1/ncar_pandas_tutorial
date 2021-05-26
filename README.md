@@ -11,7 +11,7 @@ A basic knowledge of Python, NumPy, and Matpolotlib is required. Comfort with Ju
 1. From your terminal (macOS, Linux) or git bash/Anaconda Prompt/Powershell (Windows), execute the following from within this directory: `conda env create -f environment.yml`
 1. Activate your new python environment with `conda activate ncar_pandas_tutorial`
 1. Launch `jupyter lab` from this prompt
-1. Open `pandas_FullNotebook.ipynb`
+1. Open `pandas_fullNotebook.ipynb`
 
 If you have preferred ways to maintain your own environment or otherwise interact with Python, you'll only need to make sure you have `pandas` and `matplotlib` installed, and download at least `pandas.ipynb` and the `data/` directory. Creating this environment and launching Jupyter lab can also be done in the [Anaconda Navigator](https://docs.anaconda.com/anaconda/install/) GUI.
 
